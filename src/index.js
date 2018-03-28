@@ -34,7 +34,7 @@ xIsNext: !this.state.xIsNext,
   }
 //Render Method
 
-//Modified-Method-35-In Progress...
+//Modified-Method-36-In Progress...
   render() {
     const status = 'Next player: ' + (this.state.xIsNext ? 'X' : 'O');
 
